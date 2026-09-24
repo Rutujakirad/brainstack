@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/brainstack-logo.jpg" alt="Brainstack — Persistent context. Compounding knowledge." width="640">
+</p>
+
+<p align="center">
   <h1 align="center">Brainstack</h1>
   <p align="center">
     <strong>Persistent context for AI coding assistants — personal and team.</strong>
